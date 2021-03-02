@@ -1,5 +1,5 @@
 # ahj_t1
-ahj_workspace
+https://gudbrant.github.io/ahj_t1/
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f4yx0g2vwe8bgx9y?svg=true)](https://ci.appveyor.com/project/gudbrant/ahj-t1)
 
